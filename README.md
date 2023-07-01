@@ -88,3 +88,82 @@
     </footer>
 </body>
 </html>
+***********************about************************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="about.css">
+    <style>
+body {
+    background-image: url("port_about.jpg");
+    background-size: cover;
+}
+body {
+    background-image: url("edu.jpg");
+    background-size: left;
+}
+********************resume*******************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="resume.css">
+    <style>
+body {
+    background-image: url("resume.jpg");
+    background-size: cover;
+}
+**********************skills******************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="skills.css">
+    <style>
+body {
+    background-image: url("skills.jpg");
+    background-size: cover;
+}
+**********************contact*****************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="contact.css">
+    <style>
+         section {
+           
+           flex-direction: row;
+           justify-content: space-around;
+
+           margin-bottom: 40px;
+       }
+</style>
+</head>
+<body>
+ </section>
+ <section id="Gmail">
+        <h1>Gmail</h1>
+        <p>harisreenija@gmail.com</p>
+    </section>
+
+    <section id="Number">
+        <h2>Number</h2>
+        <p>9701620470</p>
+    </section>
+</body>
+</html>
+*******************styles*********************
+body {
+    background-image: url("port_back.jpg");
+    background-size: cover;
+}
